@@ -20,7 +20,6 @@ Players can switch modes before starting the game.
 - User-friendly UI
 - Responsive design
 - Real-time feedback on guesses
-- Restart option to play again
 
 ## 🛠️ Technologies Used
 
